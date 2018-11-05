@@ -1,4 +1,30 @@
-# Belly Button Biodiversity
+# Belly Button Biodiversity Dashboard
+
+## Development of a Full-Stack Data Analytics Web Application
+
+In January 2011, the [Belly Button Biodiversity project](http://robdunnlab.com/projects/belly-button-biodiversity/) was lauched to investigate the microbes inhabiting our navels and the factors that might influence the microscopic life calling this protected, moist patch of skin home. 
+
+Our analytics project will be to build an interactive dashboard application to investigate the beneficial roles microbes play in our daily lives by exploring a DataSet of Belly Button Biodiversity. 
+
+The application is deployed on Heroku at the following link https://biodiversity-heroku.herokuapp.com/.
+
+Key feature
+
+    Interactive dashboard based on Plotly.js
+
+Technology stack used:
+
+    Sqlite
+    Pandas
+    Flask Microframework
+    SQLAlchemy(Python SQL toolkit and Object Relational Mapper)
+    Javascript
+    Plotly.js (Visualization)
+    HTML/CSS
+    Heroku
+
+
+# Description of the Analytics Project
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
 
